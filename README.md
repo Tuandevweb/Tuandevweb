@@ -1,4 +1,5 @@
-![Introduct](https://github.com/Tuandevweb/Tuandevweb/blob/main/gif.gif?raw=true)
+<img src="https://github.com/Tuandevweb/Tuandevweb/raw/main/gif.gif" width="600" />
+
 
 ## 👋 Hello!
 I'm Tuandev, i come from Viet Nam  
