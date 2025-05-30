@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Tuandeweb/Tuandeweb/main/images/your-image-link.png" width="100%" />
+<video width="600" controls>
+  <source src="https://github.com/Tuandevweb/Tuandevweb/blob/main/gif.mp4?raw=true" type="video/mp4">
+</video>
 
 ## 👋 Hello!
 I'm Tuandev, i come from Viet Nam  
