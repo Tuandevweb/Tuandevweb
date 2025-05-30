@@ -1,4 +1,4 @@
-<img src="https://your-image-link.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Tuandeweb/Tuandeweb/main/images/your-image-link.png" width="100%" />
 
 ## 👋 Hello!
 I'm Tuandev, i come from Viet Nam  
