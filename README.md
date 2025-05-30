@@ -1,4 +1,5 @@
-<img src="https://github.com/Tuandevweb/Tuandevweb/raw/main/gif.gif" width="600" />
+<img src="https://github.com/Tuandevweb/Tuandevweb/raw/main/gif.gif" style="width: 100%; max-width: 100%;" />
+
 
 
 ## 👋 Hello!
