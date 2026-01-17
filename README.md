@@ -21,11 +21,3 @@ I'm Tuandev, i come from Viet Nam
 
 
 
----
-
-### 📫 Contact Me  
-
-```text
-📞 Phone: 0854372454  
-📧 Email: hongoctuan2454@gmail.com
-
