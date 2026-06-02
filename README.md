@@ -2,9 +2,7 @@
 
 
 
-## 👋 Hello!
-I'm Tuandev, i come from Viet Nam  
-🍚🍇🏯🎁😊
+
 
 ---
 
